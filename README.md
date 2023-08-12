@@ -24,4 +24,10 @@ Sample Output
 "serverTime": "2023-08-13 01:24:23",
 "status": "OK!",
 "zone": "sgr01"
-}```
+}
+```
+
+How to run 
+1) pip install flask
+2) pip install requests
+3) python waktusolat.py
